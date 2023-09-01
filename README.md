@@ -11,4 +11,4 @@ All my dotfiles.
 - Launcher: [Raycast](https://www.raycast.com/)
 - Wallpaper: I googled "[Tokyo Night Wallpaper](https://www.pxfuel.com/en/desktop-wallpaper-fzueh)"
 
-![](https://media.discordapp.net/attachments/690989503397101678/1146986753899630772/image.png?width=2114&height=1366)
+![](https://media.discordapp.net/attachments/690989503397101678/1147226075101937715/image.png?width=1588&height=893)
